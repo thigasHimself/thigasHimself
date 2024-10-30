@@ -1,5 +1,8 @@
-## Hi there 👋
+## 💠 Thiago Azevedo
 
+<h1>Hello! / Olá!</h1>
+
+(EN) My name is Thiago, I am a 21 year old brazilian living in Belém/PA (Brazil), and currently studying programming by myself; I intend to join the information systems unergraduate program at UFPA (Federal University of Pará) by early 2025.
 <!--
 **thigasHimself/thigasHimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
